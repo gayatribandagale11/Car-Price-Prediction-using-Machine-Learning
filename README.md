@@ -19,21 +19,6 @@ This project follows a complete **data science workflow**:
 
 ---
 
-## 📊 Dataset
-Dataset used from Kaggle:
-
-🔗 https://www.kaggle.com/datasets/hellbuoy/car-price-prediction  
-
-### Features:
-- Selling Price  
-- Present Price  
-- Kilometers Driven  
-- Fuel Type  
-- Transmission  
-- Year  
-
----
-
 ## ⚙️ Technologies Used
 - Python 🐍  
 - Pandas  
@@ -102,8 +87,8 @@ Graphs:
 
 ---
 
-## 📸 Output
-(Add screenshots of graphs here for better presentation)
+## 📸 Video
+https://drive.google.com/file/d/1VI5CfcwVt9kDzWntNJ88zYfjrEb9lqIY/view?usp=drive_link
 
 ---
 
@@ -114,11 +99,6 @@ Graphs:
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: 
-
----
-
-## ⭐ Acknowledgement
-Dataset sourced from Kaggle for educational purposes.
+LinkedIn: www.linkedin.com/in/gayatri-bandagale-843882401
 
 ---
