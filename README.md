@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Machine Learning
+# 🚗 CodeAlpha_Car_Price_Prediction_using_Machine_Learning
 
 ## 📌 Project Overview
 This project predicts the selling price of cars using Machine Learning techniques.  
